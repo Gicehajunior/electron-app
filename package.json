@@ -1,0 +1,19 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/electron-app"
+  },
+  "author": "Giceha Junior",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
